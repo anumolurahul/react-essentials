@@ -1,2 +1,2 @@
-# scaler-react-bootcamp
+# react-essentials
 react boot
